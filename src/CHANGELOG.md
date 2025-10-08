@@ -1,5 +1,11 @@
 # viem
 
+## 2.38.1
+
+### Patch Changes
+
+- [`cb0029d499c2cac45bb47cd533eedc32e842bea0`](https://github.com/wevm/viem/commit/cb0029d499c2cac45bb47cd533eedc32e842bea0) Thanks [@akitothemoon](https://github.com/akitothemoon)! - Added Injective network.
+
 ## 2.38.0
 
 ### Minor Changes
